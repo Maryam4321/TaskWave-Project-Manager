@@ -1,15 +1,7 @@
-# TaskWave-Project-Manager
-Streamline your project workflows with TaskWave Project Manager, a robust web-based tool offering intuitive task management and real-time collaboration features.
-
 <div align="center">
   <h1 align="center">TaskWave Project Manager</h1>
   <p align="center">
     Streamline your project workflows with TaskWave Project Manager, a robust web-based tool offering intuitive task management and real-time collaboration features.
-  </p>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/ziishaned" target="_blank">
-      <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;">
-    </a>
   </p>
 </div>
 
@@ -25,7 +17,7 @@ Dingo Task Manager is a full-featured, personal project management tool designed
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone git@github.com:zeeshanu/dingo-task-manager.git
+   git clone https://github.com/Maryam4321/TaskWave-Project-Manager.git
 
 2. **Install Dependencies**
     ```bash
@@ -42,7 +34,12 @@ Dingo Task Manager is a full-featured, personal project management tool designed
 ## Usage
 Start by creating your first project board and add tasks. Customize each task with labels, due dates, and assignees.
 
-## Contributing: Want to contribute? Great! Here's how you can help:
+## Feedback and Contributions
+**Feedback:** 
+Suggestions and feedback are highly appreciated. Please send your ideas or any issues you encounter to <a href="mailto:maryamkhaliddev@gmail.com">maryamkhaliddev@gmail.com</a>.
+
+**Contributing:** 
+Want to contribute? Great! Here's how you can help:
   1. Fork the repository
   2. Create your feature branch (git checkout -b feature/AmazingFeature)
   3. Commit your changes (git commit -m 'Add some AmazingFeature')
